@@ -18,11 +18,11 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'jacksonjean188',
-  github: 'jacksonjean',
+  // github: 'jacksonjean',
   linkedin: 'jacksonjean',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'jacksonjean', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
