@@ -58,6 +58,10 @@ export default siteConfig({
       pageId: 'f1199d37579b41cbabfc0b5174f4256a'
     },
     {
+      title: 'Portfolio',
+      pageId: 'ac2b7b9251d24511938e11f940dde32a'
+    },
+    {
       title: 'Contact',
       pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
     }
