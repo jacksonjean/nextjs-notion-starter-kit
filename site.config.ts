@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jackson Jean',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'thejacksonjean.com',
   author: 'Jackson Jean',
 
   // open graph metadata (optional)
-  description: 'Jackson Jean Personal Site',
+  description: 'Documenting my journey towards building great products. A personal site by Jackson Jean.',
 
   // social usernames (optional)
   twitter: 'jacksonjean188',
-  // github: 'jacksonjean',
+  github: 'jacksonjean',
   linkedin: 'jacksonjean',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
